@@ -1,4 +1,4 @@
-/*"use client"*/
+"use client"
 
 import Navigation from '../../components/Navigation'
 import './globals.css'
@@ -6,12 +6,12 @@ import { Inter } from 'next/font/google'
 import { RevealWrapper } from 'next-reveal'
 
 const inter = Inter({ subsets: ['latin'] })
-
+/*
 export const metadata = {
   title: 'Contactos',
   description: 'Crea, Modifica y Actualiza tus contactos en la web',
 }
-
+*/
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className='sr'>
