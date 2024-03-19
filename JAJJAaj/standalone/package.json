@@ -1,0 +1,29 @@
+{
+  "name": "contacto",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.33.2",
+    "eslint": "8.49.0",
+    "eslint-config-next": "13.4.19",
+    "hover.css": "^2.3.2",
+    "next": "13.4.19",
+    "next-reveal": "^1.0.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "supabase": "^1.93.0",
+    "tiny-slider": "^2.9.4",
+    "yarn": "^1.22.19"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

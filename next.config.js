@@ -1,4 +1,8 @@
-/** @type {import('next').NextConfig} */
+/** 
+ * 
+ * @type {import('next').NextConfig} 
+ * 
+ * */
 const nextConfig = {
     images: {
         remotePatterns: [
@@ -10,14 +14,14 @@ const nextConfig = {
           },
         ],
       },  
-      /*
-      Server actions are not supported with static exports.
+      
+      /*Server actions are not supported with static exports.*/
     experimental: {
       serverActions: true,
     },
-    */
+    
     output: 'standalone',
-    distDir: 'dist',
+    distDir: 'JAJJAaj',
 }
 
 module.exports = nextConfig
