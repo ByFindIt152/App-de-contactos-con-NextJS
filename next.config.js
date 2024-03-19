@@ -21,7 +21,7 @@ const nextConfig = {
     },
     
     output: 'standalone',
-    distDir: 'JAJJAaj',
+    distDir: 'out',
 }
 
 module.exports = nextConfig
